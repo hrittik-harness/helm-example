@@ -10,4 +10,4 @@ This repository contains a simple Helm chart that you can deploy on your public 
 ## Post Deployment
 
 After you get the LoadBalancer IP, you can access the IP to see a sample NGINX page.
-<img width="1904" alt="Screenshot 2022-07-19 at 3 56 00 PM" src="https://user-images.githubusercontent.com/67012359/179729542-cffb2585-57a8-4d18-a48a-9114c6c71898.png">
+<img width="1904" alt="Nginx Post Deployment URI" src="https://user-images.githubusercontent.com/67012359/179729542-cffb2585-57a8-4d18-a48a-9114c6c71898.png">
